@@ -1,2 +1,12 @@
 # Python-Activity-Based-Learning
 This is public repository regarding the necessary information and details about the 10 Python Programs that are to be submitted to the university.
+Name : Ch. Harsha Sri Roll. No : N26v0A10077 (NIAT), 26000460 (NRI) Branch : CSE Section : 01 Titles of the programs i have chosen:
+1. University Scholarship Allocation: Design a system that evaluates applicants using aggregate marks, subject-wise minimum scores, attendance, and income criteria, ranks eligible students, and resolves ties using predefined rules.
+2. Progressive Electricity Billing: Calculate household bills using multiple consumption slabs, fixed charges, surcharges, and rebates, then compare bills across several months and identify unusual increases.
+13. ATM Transaction Sequence Simulation: Process a sequence of deposits and withdrawals, maintain a simulated balance, enforce withdrawal limits, reject invalid transactions, and produce a transaction summary.
+27. Advanced Numeric Pattern Generator: Produce a hollow diamond or symmetric numerical pattern based on user-specified dimensions, with validation for invalid dimensions and carefully aligned output.
+29. Password Policy Validation Engine: Evaluate sample password strings against minimum length, character-category, repetition, and prohibited-substring rules; explain each failed condition.
+35. Text Compression Using Character Runs: Encode a string by grouping consecutive repeated characters and compare original and encoded lengths, including cases where encoding is not beneficial.
+42. Student Marks Matrix Analysis: Analyse a matrix of student marks across subjects, calculate row-wise and column-wise statistics, identify top performers, and detect subjects with low average performance.
+48. Tuple-Based Employee Shift Conflict Detection: Represent employee shifts as tuples, compare time intervals, detect overlapping assignments, and identify employees with conflicting schedules.56. Student Group Formation with Score Balancing: Arrange students using a list of scores and allocate them into groups of specified sizes while minimizing differences between group totals under defined allocation rules.
+100. Comprehensive Smart Campus Management Simulation: Develop a menu-driven program that integrates student records, attendance, marks, event registration, resource allocation, and summary reporting using conditional statements, loops, strings, lists, nested lists, tuples, and tuple unpacking. 
